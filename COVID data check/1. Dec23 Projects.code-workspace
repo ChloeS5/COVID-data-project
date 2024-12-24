@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "COVID-data-project",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"taipyStudio.gUI.elementsFilePaths": []
+	}
+}
